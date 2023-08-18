@@ -7,5 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
--AI and Robotics \n
+-AI and Robotics \
 -Python, HTML + CSS + Javascript, Arduino
