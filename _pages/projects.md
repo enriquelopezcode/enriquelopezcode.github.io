@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /electronics/
-title: "Electronics"
+permalink: /projects/
+title: "Projects"
 author_profile: true
 redirect_from:
   - /wordpress/projects/
@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+{% for project in site.projects %}
+  {% capture year %}{{ project.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
