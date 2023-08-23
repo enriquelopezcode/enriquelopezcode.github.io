@@ -2,6 +2,10 @@
 main:
   - title: "Projects"
     url: /projects/
+
+  - title: "Electronics"
+    url: /electronics/
+
     
   - title: "Publications"
     url: /publications/
@@ -18,5 +22,4 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  
