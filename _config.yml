@@ -86,7 +86,7 @@ author:
   location         : "Germany"
   employer         :
   pubmed           : 
-  googlescholar    : "Coming Soon"
+  googlescholar    : 
   email            :
   researchgate     :  # example: "Coming Soon"
   uri              :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          :"enriquelopezcode"
   wikipedia        :
 
 
