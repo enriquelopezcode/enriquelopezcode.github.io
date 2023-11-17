@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 -AI and Robotics \
--Python, HTML + CSS + Javascript, Arduino
+-Python, Java, Javascript, HTML, CSS, Django, Arduino
