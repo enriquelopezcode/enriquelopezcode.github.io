@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Enrique Lopez - KIT"
+title: "Enrique Lopez"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
